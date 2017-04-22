@@ -2750,6 +2750,7 @@ Payment,결제,module,Magento_Checkout
 "Not yet calculated","아직 계산되지 않았습니다.",module,Magento_Checkout
 "We received your order!","고객님의 주문이 접수되었습니다!",module,Magento_Checkout
 "Thank you for your purchase!","주문해 주셔서 감사합니다!",module,Magento_Checkout
+"Go to Checkout",주문하기,module,Magento_Checkout
 "Terms and Conditions",이용약관,module,Magento_CheckoutAgreements
 "Add New Condition","신규 조건 추가",module,Magento_CheckoutAgreements
 "Save Condition","조건 저장",module,Magento_CheckoutAgreements
