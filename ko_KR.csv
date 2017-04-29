@@ -2751,6 +2751,9 @@ Payment,결제,module,Magento_Checkout
 "We received your order!","고객님의 주문이 접수되었습니다!",module,Magento_Checkout
 "Thank you for your purchase!","주문해 주셔서 감사합니다!",module,Magento_Checkout
 "Go to Checkout",주문하기,module,Magento_Checkout
+"View and edit cart","장바구니 보기",module,Magento_Checkout
+"Item in Cart","Item in Cart",module,Magento_Checkout
+"Items in Cart","Items in Cart",module,Magento_Checkout
 "Terms and Conditions",이용약관,module,Magento_CheckoutAgreements
 "Add New Condition","신규 조건 추가",module,Magento_CheckoutAgreements
 "Save Condition","조건 저장",module,Magento_CheckoutAgreements
@@ -6369,6 +6372,7 @@ Partners,Partners,module,Magento_Marketplace
 "Read More","자세히 보기",module,Magento_Marketplace
 "Partner Page","Partner Page",module,Magento_Marketplace
 "No partners were found","No partners were found",module,Magento_Marketplace
+"Find Partners & Extensions","Find Partners & Extensions",module,Magento_Marketplace
 Synchronize,Synchronize,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchronizing %1 to %2",module,Magento_MediaStorage
 Synchronizing...,Synchronizing...,module,Magento_MediaStorage
