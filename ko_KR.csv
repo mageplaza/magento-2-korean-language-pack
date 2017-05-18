@@ -3,7 +3,7 @@ None,없음,module,Magento_AdminGws
 "Allowed Scopes","허용 범위",module,Magento_AdminGws
 "You need more permissions to delete this item(s): %1.","삭제 권한이 없습니다: %1.",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","이 규칙 업데이트 중 일부를 적용하려면 더 많은 권한이 필요합니다.",module,Magento_AdminGws
-"Please assign this entity to a store view.","상점 뷰에 이 속성을 할당해주세요.",module,Magento_AdminGws
+"Please assign this entity to a store view.","스토어 뷰에 이 속성을 할당해주세요.",module,Magento_AdminGws
 "You can create orders only in an active store.","활성화된 스토어에서만 주문을 생성할 수 있습니다.",module,Magento_AdminGws
 "Please assign this item to a store view.","스토어뷰에 이 항목을 할당해 주십시오.",module,Magento_AdminGws
 "You need more permissions to save this item.","저장할 권한이 없습니다.",module,Magento_AdminGws
