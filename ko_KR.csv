@@ -8,7 +8,7 @@ None,없음,module,Magento_AdminGws
 "Please assign this item to a store view.","스토어뷰에 이 항목을 할당해 주십시오.",module,Magento_AdminGws
 "You need more permissions to save this item.","저장할 권한이 없습니다.",module,Magento_AdminGws
 "You need more permissions to delete this item.","삭제할 권한이 없습니다.",module,Magento_AdminGws
-"You need more permissions to view this item.","볼수있는 권한이 없습니다.",module,Magento_AdminGws
+"You need more permissions to view this item.","볼 수 있는 권한이 없습니다.",module,Magento_AdminGws
 "Please specify at least one website or one store group.","최소 하나 이상의 웹사이트나 스토어 그룹을 지정해 주십시오.",module,Magento_AdminGws
 "You need more permissions to set All Scopes to a Role.","역할에 전체 범위를 설정하려면 더 많은 권한이 필요합니다.",module,Magento_AdminGws
 "Incorrect website ID: %1","잘못된 웹사이트 ID: %1",module,Magento_AdminGws
@@ -439,7 +439,7 @@ Enable,활성,module,Magento_Backend
 "Add Design Change","디자인 변경 추가",module,Magento_Backend
 Back,돌아가기,module,Magento_Backend
 Delete,삭제,module,Magento_Backend
-"Are you sure?",정말입니까?,module,Magento_Backend
+"Are you sure?",확실합니까?,module,Magento_Backend
 Save,저장,module,Magento_Backend
 "Edit Design Change","디자인 변경 수정",module,Magento_Backend
 "New Store Design Change","신규 스토어 디자인 변경",module,Magento_Backend
@@ -454,7 +454,7 @@ General,General,module,Magento_Backend
 Cancel,취소,module,Magento_Backend
 "Delete %1 '%2'","%1 '%2' 삭제",module,Magento_Backend
 "Delete %1","%1 삭제",module,Magento_Backend
-"Block Information","블럭 정보",module,Magento_Backend
+"Block Information","블록 정보",module,Magento_Backend
 "Backup Options","백업 옵션",module,Magento_Backend
 "Create DB Backup","DB 백업 생성",module,Magento_Backend
 Yes,네,module,Magento_Backend
