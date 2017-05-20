@@ -74,7 +74,7 @@ Back,뒤로,module,Magento_AdvancedCheckout
 "Update Items and Quantities","항목 및 수량 업데이트",module,Magento_AdvancedCheckout
 "Are you sure you want to clear your cart?","정말로 장바구니를 비우시겠습니까?",module,Magento_AdvancedCheckout
 "Clear my shopping cart","장바구니 비우기",module,Magento_AdvancedCheckout
-"Add selections to my cart","내 장바구니에 선택 추가",module,Magento_AdvancedCheckout
+"Add selections to my cart","내 장바구니에 선택 담기",module,Magento_AdvancedCheckout
 Cancel,취소,module,Magento_AdvancedCheckout
 "Shopping Cart for %1 in %2","Shopping Cart for %1 in %2",module,Magento_AdvancedCheckout
 "Select products you want to buy","구매하려는 상품 선택",module,Magento_AdvancedCheckout
@@ -88,8 +88,8 @@ ID,ID,module,Magento_AdvancedCheckout
 SKU,SKU,module,Magento_AdvancedCheckout
 "Recently Compared Products (%1)","최근 비교한 상품 (%1)",module,Magento_AdvancedCheckout
 "Recently Viewed Products (%1)","최근 본 상품 (%1)",module,Magento_AdvancedCheckout
-"Add to Shopping Cart by SKU","SKU로 장바구니에 추가",module,Magento_AdvancedCheckout
-"Add to Shopping Cart","장바구니에 추가",module,Magento_AdvancedCheckout
+"Add to Shopping Cart by SKU","SKU로 장바구니에 담기",module,Magento_AdvancedCheckout
+"Add to Shopping Cart","장바구니에 담기",module,Magento_AdvancedCheckout
 "Wish List (%1)","위시리스트 (%1)",module,Magento_AdvancedCheckout
 Apply,적용,module,Magento_AdvancedCheckout
 Configure,설정,module,Magento_AdvancedCheckout
@@ -120,15 +120,15 @@ Customers,고객,module,Magento_AdvancedCheckout
 "You cannot configure a product.","상품을 설정할 수 없습니다.",module,Magento_AdvancedCheckout
 "You removed the items.","항목을 삭제했습니다.",module,Magento_AdvancedCheckout
 "You removed the item.","항목을 삭제했습니다.",module,Magento_AdvancedCheckout
-"You added %1 to your shopping cart.","장바구니에 %1을(를) 추가했습니다.",module,Magento_AdvancedCheckout
+"You added %1 to your shopping cart.","장바구니에 %1을(를) 담았습니다.",module,Magento_AdvancedCheckout
 "You cannot add a product.","상품을 추가할 수 없습니다.",module,Magento_AdvancedCheckout
 "Order by SKU","SKU로 정렬",module,Magento_AdvancedCheckout
 "The SKU was not found in the catalog.","The SKU was not found in the catalog.",module,Magento_AdvancedCheckout
 "Availability: Out of stock.","재고여부: 품절",module,Magento_AdvancedCheckout
 "We don't have as many of these as you want.","요구하는 것에 비해 수량이 부족합니다.",module,Magento_AdvancedCheckout
-"You can't add this many to your cart.","장바구니에 이정도 많이 추가할 수 없습니다.",module,Magento_AdvancedCheckout
+"You can't add this many to your cart.","장바구니에 담을 수 있는 양을 초과했습니다.",module,Magento_AdvancedCheckout
 "You need to choose options for your item.","상품 옵션을 선택해야 합니다.",module,Magento_AdvancedCheckout
-"We can't add the item to your cart.","장바구니에 항목을 추가할 수 없습니다.",module,Magento_AdvancedCheckout
+"We can't add the item to your cart.","장바구니에 항목을 담을 수 없습니다.",module,Magento_AdvancedCheckout
 "Please enter an actual number in the ""Qty"" field.","""수량""에는 실제 숫자를 입력해 주십시오.",module,Magento_AdvancedCheckout
 "This product is assigned to another website.","이 상품은 다른 웹사이트에 할당됩니다.",module,Magento_AdvancedCheckout
 "You can add only enabled products.","구매 가능한 상품만 추가할 수 있습니다.",module,Magento_AdvancedCheckout
@@ -139,7 +139,7 @@ Customers,고객,module,Magento_AdvancedCheckout
 "We can't add a product to cart by id ""%1"".","We can't add a product to cart by id ""%1"".",module,Magento_AdvancedCheckout
 "Something went wrong while reordering this product.","상품을 재주문하는 동안 뭔가 문제가 발생했습니다.",module,Magento_AdvancedCheckout
 "We can't find this wish list.","We can't find this wish list.",module,Magento_AdvancedCheckout
-"You added %1 product to your shopping cart.","장바구니에 %1 상품을 추가했습니다.",module,Magento_AdvancedCheckout
+"You added %1 product to your shopping cart.","장바구니에 %1 상품을 담았습니다.",module,Magento_AdvancedCheckout
 "You added %1 products to your shopping cart.","장바구니에 %1 상품을 추가했습니다.",module,Magento_AdvancedCheckout
 "%1 product requires your attention.","%1 상품은 주의가 필요합니다.",module,Magento_AdvancedCheckout
 "%1 products require your attention.","%1 상품은 주의가 필요합니다.",module,Magento_AdvancedCheckout
@@ -181,7 +181,7 @@ Item,항목,module,Magento_AdvancedCheckout
 Edit,수정,module,Magento_AdvancedCheckout
 "Remove item","항목 삭제",module,Magento_AdvancedCheckout
 "Products Requiring Attention","주의 필요 상품",module,Magento_AdvancedCheckout
-"Add to Cart","장바구니에 추가",module,Magento_AdvancedCheckout
+"Add to Cart","장바구니 담기 ",module,Magento_AdvancedCheckout
 Sku,Sku,module,Magento_AdvancedCheckout
 File,파일,module,Magento_AdvancedCheckout
 "File extensions allowed: .csv","허용되는 파일 확장자: .csv",module,Magento_AdvancedCheckout
