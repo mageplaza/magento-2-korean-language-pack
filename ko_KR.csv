@@ -76,7 +76,7 @@ Back,뒤로,module,Magento_AdvancedCheckout
 "Clear my shopping cart","장바구니 비우기",module,Magento_AdvancedCheckout
 "Add selections to my cart","내 장바구니에 선택 추가",module,Magento_AdvancedCheckout
 Cancel,취소,module,Magento_AdvancedCheckout
-"Shopping Cart for %1 in %2","Shopping Cart for %1 in %2",module,Magento_AdvancedCheckout
+"Shopping Cart for %1 in %2","%2 에서 %1에 대한 장바구니",module,Magento_AdvancedCheckout
 "Select products you want to buy","구매하려는 상품 선택",module,Magento_AdvancedCheckout
 Product,상품,module,Magento_AdvancedCheckout
 Price,가격,module,Magento_AdvancedCheckout
