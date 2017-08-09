@@ -33,7 +33,7 @@ Install the Korean language pack via composer is never easier.
 **Install Korean pack**:
 
 ```
-composer require mageplaza/magento-2-korean-language-pack
+composer require mageplaza/magento-2-korean-language-pack:dev-master
 php bin/magento setup:static-content:deploy ko_KR
 php bin/magento cache:clean
 php bin/magento cache:flush
@@ -44,7 +44,7 @@ php bin/magento cache:flush
 **Update  Korean pack**:
 
 ```
-composer update mageplaza/magento-2-korean-language-pack
+composer update mageplaza/magento-2-korean-language-pack:dev-master
 php bin/magento setup:static-content:deploy ko_KR
 php bin/magento indexer:reindex
 php bin/magento cache:clean
