@@ -8434,6 +8434,7 @@ Action,동작,module,Magento_Reports
 Report,Report,module,Magento_Reports
 Description,Description,module,Magento_Reports
 undefined,undefined,module,Magento_Reports
+"Item in Cart","Item in Cart",module,Magento_Reports
 "Save Review","리뷰 저장",module,Magento_Review
 "New Review","상품평 추가",module,Magento_Review
 "Review Details","Review Details",module,Magento_Review
