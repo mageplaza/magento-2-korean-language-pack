@@ -1056,7 +1056,7 @@
 "Specify Dynamic Blocks","지정 된 동적 블록",module,Magento_Banner
 "Dynamic Block Template","Dynamic Block Template",module,Magento_Banner
 "Dynamic Block Inline Template","Dynamic Block Inline Template",module,Magento_Banner
-"Name","Name",module,Magento_Banner
+"Name","이름",module,Magento_Banner
 "Status Label","Status Label",module,Magento_Banner
 "General Information","General Information",module,Magento_Banner
 "Back","Back",module,Magento_Banner
