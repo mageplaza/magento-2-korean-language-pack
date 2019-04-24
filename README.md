@@ -117,11 +117,13 @@ To download and install Korean pack manually, you have to access to your server 
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ko_kr/ko_KR.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ko_kr/`
 
-See this screenshot
+See this screenshot:
 
 ![Korean pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **ko_kr**
 
 #### Step 2: Flush cache
 
