@@ -4,6 +4,7 @@ In order to use the Korean Language on your Magento 2 store, it is time to start
 
 Read more [Magento 2 Korean Language Pack](https://www.mageplaza.com/magento-2-korean-language-pack.html)
 
+![Mageplaza Korean language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
