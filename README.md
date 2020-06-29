@@ -20,6 +20,8 @@ Read more [Magento 2 Korean Language Pack](https://www.mageplaza.com/magento-2-k
 
 This is status of Korean Language Pack, you can see how many percentage of this project has been done.
 
+![Korean language pack process](https://progress-bar.dev//?title=completed)
+
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
 - [On Github](https://github.com/mageplaza/magento-2-korean-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
